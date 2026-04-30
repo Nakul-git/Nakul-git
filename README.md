@@ -9,7 +9,6 @@
 - 🤖 Focused on **LLMs, RAG, LangChain, Ollama**
 - 🧩 Building **Production-ready AI systems**
 - 🌱 Learning **Transformers, PyTorch & Advanced AI**
-- 🎯 Goal: Land a **high-paying AI Engineer role (US-based)**
 
 ---
 
