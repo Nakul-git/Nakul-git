@@ -93,4 +93,4 @@
 
 ## ⚡ Fun Fact
 
-> I build AI systems locally without APIs 🚀
+> I can build AI systems locally without APIs 🚀
