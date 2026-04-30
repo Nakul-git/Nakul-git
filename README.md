@@ -18,19 +18,40 @@
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🤖 AI / ML
+---
+
+### 🤖 AI / ML & RAG
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-System-blue?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-GenerativeAI-purple?style=for-the-badge)
+
+---
+
+### 🧠 Deep Learning / ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+---
 
 ### 🗄️ Databases & Retrieval
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge)
 ![Vector DB](https://img.shields.io/badge/Vector%20Search-000000?style=for-the-badge)
+![BM25](https://img.shields.io/badge/BM25-Retrieval-green?style=for-the-badge)
 
-### 🛠️ Tools
+---
+
+### 🔌 APIs & Integration
+![REST API](https://img.shields.io/badge/REST-API-02569B?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+
+---
+
+### 🛠️ Tools & Dev
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
