@@ -8,7 +8,7 @@
 - 🔭 Currently working on **Multimodal RAG Systems**
 - 🤖 Focused on **LLMs, RAG, LangChain, Ollama**
 - 🧩 Building **Production-ready AI systems**
-- 🌱 Learning **Transformers, PyTorch & Advanced AI**
+- 🌱 Learning **Transformers, PyTorch & Advanced AI/ML**
 
 ---
 
