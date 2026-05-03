@@ -131,17 +131,8 @@ I'm an AI Engineer specializing in **Retrieval-Augmented Generation (RAG)**, **L
 
 ## 🌐 Let's Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/nakul-joshi-665822226/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:nakuljoshi112003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Nakul-git" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+- 💼 LinkedIn: https://www.linkedin.com/in/nakul-joshi-665822226/
+- 📧 Email: nakuljoshi112003@gmail.com
 
 ---
 
