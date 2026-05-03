@@ -87,7 +87,7 @@
 ## 🌐 Let's Connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/nakul-joshi-665822226/
-- 📧 Email: nakuljoshi1990@gmail.com
+- 📧 Email: nakuljoshi112003@gmail.com
 
 ---
 
