@@ -82,7 +82,7 @@ I'm an AI Engineer specializing in **Retrieval-Augmented Generation (RAG)**, **L
 
 ---
 
-### 🏥 MedMind - AI Health Intelligence System (Multimodal Clinical RAG)
+### 🏥 MedMind - AI Health Intelligence System ((X-Ray understanding))
 
 > Advanced AI system for understanding symptoms, medical reports, and images with clinical reasoning
 
