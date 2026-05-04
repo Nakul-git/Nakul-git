@@ -82,6 +82,22 @@ I'm an AI Engineer specializing in **Retrieval-Augmented Generation (RAG)**, **L
 
 ---
 
+### 🏥 MedMind - AI Health Intelligence System (Multimodal Clinical RAG)
+
+> Advanced AI system for understanding symptoms, medical reports, and images with clinical reasoning
+
+- 🧾 Multimodal ingestion — symptoms, PDFs, prescriptions, lab reports, and medical images
+- 🔍 Hybrid retrieval — semantic search (ChromaDB) + lexical search (BM25)
+- 🔁 Multi-query expansion + Reciprocal Rank Fusion (RRF)
+- 🎯 Medical-aware reranking for high-precision evidence retrieval
+- 🧠 Clinical reasoning engine — condition prediction, risk scoring, structured insights
+- 🖼️ Image understanding using LLaVA + OCR for report extraction
+- 🌐 Auto-fetch pipeline — PubMed + Europe PMC → real clinical evidence
+- ⚙️ Fully local AI stack using Ollama (llama3, embeddings, vision models)
+- 🧾 Structured JSON outputs with confidence scores and safety layers
+
+---
+
 ### 🧠 ScholarMind — Multimodal Research Intelligence System
 
 > Production-grade RAG system for reasoning over arXiv research papers
@@ -93,17 +109,6 @@ I'm an AI Engineer specializing in **Retrieval-Augmented Generation (RAG)**, **L
 - 🤖 Model routing between local (Ollama) and cloud (OpenAI) backends
 - 🛡️ Full LLMOps stack — guardrails, output validation, caching, observability
 - 📊 Evaluation pipelines for faithfulness, relevance, and recall
-
----
-
-### 🤖 Local RAG Chatbot
-
-> Fully offline conversational AI over custom documents
-
-- 🦜 LangChain + ChromaDB for retrieval pipeline
-- 🦙 Local LLM inference via Ollama (zero API dependency)
-- 📁 Recursive document ingestion with metadata handling
-- 💬 Context-aware multi-turn chat memory
 
 ---
 
