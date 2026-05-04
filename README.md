@@ -86,28 +86,28 @@ I'm an AI Engineer specializing in **Retrieval-Augmented Generation (RAG)**, **L
 
 > Advanced AI system for understanding symptoms, medical reports, and images with clinical reasoning
 
-- 🧾 Multimodal ingestion — symptoms, PDFs, prescriptions, lab reports, and medical images
-- 🔍 Hybrid retrieval — semantic search (ChromaDB) + lexical search (BM25)
+- 🧾 Multimodal ingestion - symptoms, PDFs, prescriptions, lab reports, and medical images
+- 🔍 Hybrid retrieval - semantic search (ChromaDB) + lexical search (BM25)
 - 🔁 Multi-query expansion + Reciprocal Rank Fusion (RRF)
 - 🎯 Medical-aware reranking for high-precision evidence retrieval
-- 🧠 Clinical reasoning engine — condition prediction, risk scoring, structured insights
+- 🧠 Clinical reasoning engine - condition prediction, risk scoring, structured insights
 - 🖼️ Image understanding using LLaVA + OCR for report extraction
-- 🌐 Auto-fetch pipeline — PubMed + Europe PMC → real clinical evidence
+- 🌐 Auto-fetch pipeline - PubMed + Europe PMC → real clinical evidence
 - ⚙️ Fully local AI stack using Ollama (llama3, embeddings, vision models)
 - 🧾 Structured JSON outputs with confidence scores and safety layers
 
 ---
 
-### 🧠 ScholarMind — Multimodal Research Intelligence System
+### 🧠 ScholarMind - Multimodal Research Intelligence System
 
 > Production-grade RAG system for reasoning over arXiv research papers
 
-- 📄 Full PDF ingestion pipeline — text extraction, OCR, image reasoning (LLaVA)
-- 🔍 Hybrid retrieval — dense vectors (ChromaDB) + sparse search (BM25)
+- 📄 Full PDF ingestion pipeline - text extraction, OCR, image reasoning (LLaVA)
+- 🔍 Hybrid retrieval - dense vectors (ChromaDB) + sparse search (BM25)
 - 🔁 Multi-query expansion + Reciprocal Rank Fusion (RRF)
 - 🏆 Cross-encoder reranking (MiniLM) for precision retrieval
 - 🤖 Model routing between local (Ollama) and cloud (OpenAI) backends
-- 🛡️ Full LLMOps stack — guardrails, output validation, caching, observability
+- 🛡️ Full LLMOps stack - guardrails, output validation, caching, observability
 - 📊 Evaluation pipelines for faithfulness, relevance, and recall
 
 ---
