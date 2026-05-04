@@ -98,7 +98,7 @@ I'm an AI Engineer specializing in **Retrieval-Augmented Generation (RAG)**, **L
 
 ---
 
-### 🧠 ScholarMind - Multimodal Research Intelligence System (LLMOps)
+### 📚 ScholarMind - Multimodal Research Intelligence System (LLMOps)
 
 > Production-grade RAG system for reasoning over arXiv research papers
 
