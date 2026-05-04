@@ -9,13 +9,13 @@
 
 ## 🚀 About Me
 
-I'm an AI Engineer specializing in **Retrieval-Augmented Generation (RAG)**, **LLMOps**, and **production-grade multimodal AI systems**. I design and build end-to-end pipelines — from raw PDF ingestion to grounded LLM responses — with full observability, safety, and evaluation layers.
+I'm an AI Engineer specializing in **Retrieval-Augmented Generation (RAG)**, **LLMOps**, and **production-grade multimodal AI systems**. I design and build end-to-end pipelines from raw PDF ingestion to grounded LLM responses with full observability, safety, and evaluation layers.
 
-- 🔭 Building **ScholarMind** — a Multimodal RAG system over arXiv research papers
-- 🧠 Mastered **LLMOps** — prompt versioning, model routing, guardrails, evaluation pipelines
-- 🔍 Deep expertise in **Hybrid Retrieval** — dense vectors, BM25, cross-encoder reranking
-- 🖼️ Working with **Multimodal LLMs** — text + image reasoning via LLaVA
-- 🏭 Focused on **production AI** — caching, reliability, observability, security layers
+- 🔭 Building **ScholarMind** - a Multimodal RAG system over arXiv research papers
+- 🧠 Mastered **LLMOps** - prompt versioning, model routing, guardrails, evaluation pipelines
+- 🔍 Deep expertise in **Hybrid Retrieval** - dense vectors, BM25, cross-encoder reranking
+- 🖼️ Working with **Multimodal LLMs** - text + image reasoning via LLaVA
+- 🏭 Focused on **production AI** - caching, reliability, observability, security layers
 - 🌱 Currently going deeper into **Transformers architecture & PyTorch internals**
 
 ---
